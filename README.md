@@ -14,6 +14,9 @@ MinIO es un servidor de almacenamiento de objetos compatible con Amazon S3. Pued
 
 - URL: [http://137.184.38.218:9001/](http://137.184.38.218:9001/)
 
+   - MINIO_ROOT_USER=minioadmin
+   - MINIO_ROOT_PASSWORD=minioadmin
+
 ## Streamlit
 
 Streamlit es una herramienta de desarrollo de aplicaciones web para visualización de datos en tiempo real. La aplicación desplegada está disponible en:
@@ -25,6 +28,15 @@ Streamlit es una herramienta de desarrollo de aplicaciones web para visualizaci�
 FastAPI es un framework moderno y rápido para construir APIs con Python. La documentación de la API está disponible en:
 
 - URL: [http://137.184.38.218:3000/docs](http://137.184.38.218:3000/docs)
+
+## AIRFLOW
+
+AIRFLOW para la automatización de tareas:
+
+- URL: [http://137.184.38.218:8080]((http://137.184.38.218:8080/)
+
+  AIRFLOW_USER: airflow
+  AIRFLOW _PASSWORD: airflow
 
 ## GitHub Actions y Docker Hub
 
